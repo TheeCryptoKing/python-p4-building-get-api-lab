@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from random import randint, choice as rc
 
 from faker import Faker
